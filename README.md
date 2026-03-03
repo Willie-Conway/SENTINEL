@@ -443,11 +443,7 @@ MIT License — see LICENSE file for details.
   <strong>🛡️ SENTINEL — Detect, Investigate, and Respond to Insider Threats 🛡️</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILT_WITH-❤️-ff6b35?style=for-the-badge&labelColor=050810" />
-  <img src="https://img.shields.io/badge/FOR-SOC_Analysts-3b82f6?style=for-the-badge&labelColor=050810" />
-  <img src="https://img.shields.io/badge/TRY_IT_LIVE-10b981?style=for-the-badge&labelColor=050810" />
-</p>
+
 
 ---
 
